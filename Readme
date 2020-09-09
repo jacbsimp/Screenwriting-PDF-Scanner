@@ -1,0 +1,23 @@
+Scanner 1 is an older version of Scanner 2. Scanner 2 just uses a method after it breaks down a wordlist that contains lines with more than one word per line.
+
+like this:
+word list
+
+
+breaks down that list if its more than one word that way you dont have to make sure everything perfect
+
+like: 
+
+word
+list
+
+----------------
+
+outputs to the outputs folder after youve renamed it. 
+
+I like to use Pycharm as the IDE to run the script. I'll run one and change the paths and the files to have 3 wordlists iterating over the PDF's at a time. 
+
+-------------Reorder--------------
+
+Reorder is a tool that goes through the output text file, splices it, turns numbers back into integers and creates a pandas csv file that way you can easily see everything 
+you've highlighted in ascending page order. That way you aren't tied down to searching all across the pdf by word -- you can also do by page. 
